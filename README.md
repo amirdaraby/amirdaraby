@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Amir, a Back-end Engineer with one year of experience. I specialize in crafting strong backend systems, restful APIs, and designing and optimizing databases for peak performance.<br><br><br>Please feel free to reach out!🌟
+Hey, I'm Amir, a Back-end Engineer with one year of experience. I specialize in crafting strong backend systems, restful APIs, and designing and optimizing databases for peak performance.<br><br>
 
 
 ## 🌐 Socials:
